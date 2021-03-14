@@ -1,4 +1,6 @@
+This is a new branch text file sample test. 
 Test new file 
+
 Green 
 Data Viz
 These are the colors of the rainbow. 
