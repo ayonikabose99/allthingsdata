@@ -1,6 +1,6 @@
 This is a new branch text file sample test. 
 Test new file 
-
+This is blue in master while checking out ponies graph
 Green 
 Data Viz
 These are the colors of the rainbow. 
